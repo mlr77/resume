@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Michael Rogers",
+    "email": "michael.l.rogers@me.com",
+    "location": {
+      "city": "Oahu",
+      "countryCode": "HI"
+    },
+    "summary": "Military veteran transitioning to data science with a solid foundation in analytical leadership, project management, and advanced education in computer science. Eager to leverage extensive experience in intelligence and surveillance to foster impactful data-driven solutions.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "mlr77",
+        "url": "https://github.com/mlr77"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "michael-rogers-a2a1152a",
+        "url": "https://www.linkedin.com/in/michael-rogers-a2a1152a/"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "University of Hawai‘i at Mānoa",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2019-01-01",
+      "endDate": "2023-12-15",
+      "gpa": "3.97"
+    },
+    {
+      "institution": "Excelsior College",
+      "area": "Chinese Mandarin Language",
+      "studyType": "Bachelor of Science",
+      "startDate": "2015-01-01",
+      "endDate": "2018-12-15",
+      "gpa": "3.27"
+    },
+    {
+      "institution": "Community College of the Air Force",
+      "area": "Communications Applications Technology",
+      "studyType": "Associate of Applied Science",
+      "startDate": "2010-01-01",
+      "endDate": "2011-12-15"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Science & Analysis",
+      "keywords": [
+        "Python",
+        "BERT",
+        "Adobe PDF Extract API",
+        "PyTorch",
+        "Textblob",
+        "HuggingFace",
+        "SQL",
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "Project Management & Collaboration",
+      "keywords": [
+        "Algorithm Development",
+        "NLP",
+        "Strategic Partnerships",
+        "Product Innovation"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "University of Hawai‘i at Mānoa",
+      "position": "Research Assistant",
+      "startDate": "2022-08-01",
+      "endDate": "2024-01-01",
+      "summary": "Contributed to SAGE3 project, focusing on real-time data analysis and AI/ML workflows. Led NLP innovation for taxonomy automation.",
+      "highlights": [
+        "Algorithm Development: Contributed over 10,000 lines of code for SAGE3’s scalable backend.",
+        "Cross-Functional Collaboration: Cultivated strategic alliances with FDA, NGA, Army, and Air Force Research Labs.",
+        "Data-Driven Decision Making: Directed virtual reality-based cyber operations tool development, securing a top innovation award."
+      ]
+    },
+    {
+      "name": "CACI International, Inc.",
+      "position": "Language Instructor",
+      "startDate": "2021-06-01",
+      "endDate": "2022-06-01",
+      "summary": "Enhanced eLearning experiences through digitization and innovative learning solutions.",
+      "highlights": [
+        "Coursework Digitization: Migrated instructional materials to Blackboard.",
+        "Automated Systems: Implemented automated grading for efficient language skill assessment."
+      ]
+    },
+    {
+      "name": "The Garrett Group",
+      "position": "ISR Mission Manager",
+      "startDate": "2017-07-01",
+      "endDate": "2018-07-01",
+      "summary": "Led strategic development and coordination of ISR operations to optimize resource allocation and support decision-making at the United States Indo-Pacific Command.",
+      "highlights": [
+        "Data-Driven Strategy: Optimized ISR resource allocation, enhancing operational efficiency across global intelligence capabilities.",
+        "Technological Integration: Strengthened data interoperability with cutting-edge software, significantly improving data collection and intelligence dissemination.",
+        "Crisis Response: Provided expert analysis and recommendations during critical situations, supporting high-pressure decision-making environments.",
+        "Informative Briefing: Specialized in transforming complex intelligence data into actionable insights for high-ranking officials and government decision-makers."
+      ]
+    },
+    {
+      "name": "United States Air Force",
+      "position": "Various Roles",
+      "startDate": "1997-05-01",
+      "endDate": "2017-04-01",
+      "summary": "Concluded a distinguished 20-year career across various capacities, culminating in leadership roles in intelligence analysis and strategic planning.",
+      "highlights": [
+        "Analytical Leadership: Led all-source analysis teams, producing strategic intelligence products that influenced regional security policies.",
+        "Data Science Innovation: Enhanced machine learning model training and developed methodologies to extract critical data points from complex datasets.",
+        "Quality Assurance: Implemented quality review protocols, significantly elevating the accuracy and reliability of intelligence reporting.",
+        "Event Reconstruction: Developed methodologies for processing structured and unstructured data, successfully reconstructing over 1,000 critical events."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deep Taxonomy Project",
+      "description": "Automated extraction of keywords from unstructured text using Python, BERT, and PyTorch.",
+      "highlights": [
+        "Advanced the structuring of scientific data for improved knowledge management."
+      ]
+    },
+    {
+      "name": "Bioinformatics Research",
+      "description": "Analyzed SARS-CoV-2 genome, employing PCA and k-means clustering for genomic classification.",
+      "highlights": [
+        "Uncovered significant insights into virus lineage and adaptability."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Hawaii Tech Mentors",
+      "position": "Member",
+      "startDate": "2024-02-01"
+    },
+    {
+      "organization": "IEEE Computer Society",
+      "position": "Member",
+      "startDate": "2020-11-01"
+    }
+  ]
+}
